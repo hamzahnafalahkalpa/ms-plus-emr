@@ -24,7 +24,6 @@
         "hanafalah/module-icd": "dev-main",
         "hanafalah/module-summary": "dev-main",
         "hanafalah/module-treatment": "dev-main",
-        "hanafalah/module-informed-consent": "dev-main",
         "hanafalah/module-pharmacy": "dev-main",
         "hanafalah/module-lab-radiology": "dev-main",
         "hanafalah/module-mcu": "dev-main",
